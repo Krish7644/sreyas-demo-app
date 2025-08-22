@@ -104,4 +104,7 @@ npm run build
 - Powered by React and Vite
 - Styled with Tailwind CSS
 
+### About
+ This App is build by BH Chinni Krishna Pr with his love towards Sreyas operations.
+
 Built with ❤️ on Rocket.new
